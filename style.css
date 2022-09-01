@@ -1,0 +1,29 @@
+/* Use: color, background color, typography properties, etc */
+
+h1 {
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.tomato {
+    background-color: hsl(0, 100%, 70%);
+}
+
+.rice {
+    background-color: rgb(225, 225, 225);
+}
+
+.toast {
+    /* background-color: brown; */
+    background-color: hsl(30, 100%, 60%);
+}
+
+p, 
+li {
+    font-size: 22px;
+}
+
+li.index {
+    font-size: 32px;
+    font-weight: 700;
+}
