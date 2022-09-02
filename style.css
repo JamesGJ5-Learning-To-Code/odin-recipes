@@ -5,6 +5,13 @@ h1 {
     font-weight: 200;
 }
 
+.tomato,
+.rice,
+.toast {
+    padding: 5px;
+    margin: 10px
+}
+
 .tomato {
     background-color: hsl(0, 100%, 70%);
 }
@@ -14,7 +21,6 @@ h1 {
 }
 
 .toast {
-    /* background-color: brown; */
     background-color: hsl(30, 100%, 60%);
 }
 
