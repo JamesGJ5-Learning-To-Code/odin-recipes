@@ -1,4 +1,1 @@
-# odin-recipes
-A repository for creating a recipes website, as part of The Odin Project's Foundations course.
-
-Once the website has been created, I will have demonstrated my ability to create a website for--you guessed it--recipes!
+Project made to learn to use basic HTML and CSS for the very first time. First project suggested by theodinproject.com
